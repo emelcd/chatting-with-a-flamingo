@@ -1,0 +1,32 @@
+{
+    "intents": [
+        {
+            "tag": "one-tag",
+            "patterns": [
+                "p1",
+                "p2",
+                "p3"
+            ],
+            "responses": [
+                "r1",
+                "r2",
+                "r3"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "two-tag",
+            "patterns": [
+                "p1",
+                "p2",
+                "p3"
+            ],
+            "responses": [
+                "r1",
+                "r2",
+                "r3"
+            ],
+            "context_set": ""
+        }
+    ]
+}

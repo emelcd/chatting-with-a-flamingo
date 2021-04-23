@@ -1,0 +1,1200 @@
+{
+    "mov_details": [
+        {
+            "id": "0dfa753a-f369-4602-a24e-85f09b1ff03c",
+            "title": "Dune ",
+            "year": "2021",
+            "points": "--",
+            "director": "Denis Villeneuve",
+            "cast": [
+                "Timothée Chalamet",
+                "Rebecca Ferguson",
+                "Oscar Isaac"
+            ]
+        },
+        {
+            "id": "3c551f41-c626-4ff5-baba-e6d01ad48d36",
+            "title": "Avatar 2 ",
+            "year": "2022",
+            "points": "--",
+            "director": "James Cameron",
+            "cast": [
+                "Sam Worthington",
+                "Sigourney Weaver",
+                "Zoe Saldana"
+            ]
+        },
+        {
+            "id": "95fca9f6-53c8-4295-b960-70b8a27e8801",
+            "title": "El irlandés ",
+            "year": "2019",
+            "points": "7,3",
+            "director": "Martin Scorsese",
+            "cast": [
+                "Robert De Niro",
+                "Al Pacino",
+                "Joe Pesci"
+            ]
+        },
+        {
+            "id": "623cf70f-032d-4cbe-b7e3-c66aa982a491",
+            "title": "La crónica francesa (del Liberty, Kansas Evening Sun) ",
+            "year": "2021",
+            "points": "--",
+            "director": "Wes Anderson",
+            "cast": [
+                "Benicio del Toro",
+                "Frances McDormand",
+                "Jeffrey Wright"
+            ]
+        },
+        {
+            "id": "e8361459-4026-42a9-8e9c-342c78b96c73",
+            "title": "Silencio ",
+            "year": "2016",
+            "points": "6,3",
+            "director": "Martin Scorsese",
+            "cast": [
+                "Andrew Garfield",
+                "Adam Driver",
+                "Liam Neeson"
+            ]
+        },
+        {
+            "id": "1faf3653-5dbf-468e-bad0-bf5b88ffa274",
+            "title": "Sin tiempo para morir ",
+            "year": "2021",
+            "points": "--",
+            "director": "Cary Joji Fukunaga",
+            "cast": [
+                "Daniel Craig",
+                "Rami Malek",
+                "Ralph Fiennes"
+            ]
+        },
+        {
+            "id": "fd0ee4d7-4298-4d71-a721-98be44cdcc86",
+            "title": "Blade Runner 2049 ",
+            "year": "2017",
+            "points": "7,0",
+            "director": "Denis Villeneuve",
+            "cast": [
+                "Ryan Gosling",
+                "Harrison Ford",
+                "Ana de Armas"
+            ]
+        },
+        {
+            "id": "35e3c049-076f-4d64-b22a-da3354584355",
+            "title": "Los odiosos ocho ",
+            "year": "2015",
+            "points": "7,3",
+            "director": "Quentin Tarantino",
+            "cast": [
+                "Samuel L. Jackson",
+                "Kurt Russell",
+                "Jennifer Jason Leigh"
+            ]
+        },
+        {
+            "id": "f791b2b1-b6de-4d85-b19f-08bcbf69c344",
+            "title": "Un lugar tranquilo 2 ",
+            "year": "2021",
+            "points": "--",
+            "director": "John Krasinski",
+            "cast": [
+                "Emily Blunt",
+                "Cillian Murphy",
+                "Millicent Simmonds"
+            ]
+        },
+        {
+            "id": "5749d7ab-7213-4d1f-911c-e43c60ee5038",
+            "title": "La mujer en la ventana ",
+            "year": "2021",
+            "points": "--",
+            "director": "Joe Wright",
+            "cast": [
+                "Amy Adams",
+                "Julianne Moore",
+                "Gary Oldman"
+            ]
+        },
+        {
+            "id": "cfdc66c5-d3ad-49d4-bc51-8f966026b29d",
+            "title": "Viuda negra ",
+            "year": "2021",
+            "points": "--",
+            "director": "Cate Shortland",
+            "cast": [
+                "Scarlett Johansson",
+                "Florence Pugh",
+                "Rachel Weisz"
+            ]
+        },
+        {
+            "id": "9a0d04c3-9a39-4819-87a4-25088153ffca",
+            "title": "Nomadland ",
+            "year": "2020",
+            "points": "7,1",
+            "director": "Chloé Zhao",
+            "cast": [
+                "Frances McDormand",
+                "David Strathairn",
+                "Linda May"
+            ]
+        },
+        {
+            "id": "8097149a-747a-4317-91d5-9f865bc04b87",
+            "title": "The Batman ",
+            "year": "2022",
+            "points": "--",
+            "director": "Matt Reeves",
+            "cast": [
+                "Robert Pattinson",
+                "Zöe Kravitz",
+                "Paul Dano"
+            ]
+        },
+        {
+            "id": "48292daf-5525-4604-912f-618a30b5b01f",
+            "title": "Sin City: Una dama por la que matar ",
+            "year": "2014",
+            "points": "5,7",
+            "director": "Robert Rodriguez, Frank Miller",
+            "cast": [
+                "Mickey Rourke",
+                "Josh Brolin",
+                "Jessica Alba"
+            ]
+        },
+        {
+            "id": "c5a51923-372c-4917-80a7-6fa6e053bd69",
+            "title": "Tenet ",
+            "year": "2020",
+            "points": "6,4",
+            "director": "Christopher Nolan",
+            "cast": [
+                "John David Washington",
+                "Robert Pattinson",
+                "Elizabeth Debicki"
+            ]
+        },
+        {
+            "id": "61207478-282d-4d54-b5cf-2dcb9617ad55",
+            "title": "Indiana Jones 5 ",
+            "year": "2022",
+            "points": "--",
+            "director": "James Mangold",
+            "cast": [
+                "Harrison Ford",
+                "Phoebe Waller-Bridge",
+                "Mads Mikkelsen"
+            ]
+        },
+        {
+            "id": "72eb43ad-bae9-4742-baf2-3aa49a3ce307",
+            "title": "El faro ",
+            "year": "2019",
+            "points": "6,6",
+            "director": "Robert Eggers",
+            "cast": [
+                "Willem Dafoe",
+                "Robert Pattinson"
+            ]
+        },
+        {
+            "id": "a08a3ded-52e9-4292-a76f-10ebe18610a5",
+            "title": "Dunkerque ",
+            "year": "2017",
+            "points": "7,0",
+            "director": "Christopher Nolan",
+            "cast": [
+                "Fionn Whitehead",
+                "Mark Rylance",
+                "Kenneth Branagh"
+            ]
+        },
+        {
+            "id": "fbbb5fe4-cf64-4bbe-b171-1e059fa77510",
+            "title": "Otra ronda ",
+            "year": "2020",
+            "points": "7,2",
+            "director": "Thomas Vinterberg",
+            "cast": [
+                "Mads Mikkelsen",
+                "Thomas Bo Larsen",
+                "Magnus Millang"
+            ]
+        },
+        {
+            "id": "f23d4f1b-701a-42df-82de-f11778b25c99",
+            "title": "Star Wars: Los últimos Jedi ",
+            "year": "2017",
+            "points": "6,1",
+            "director": "Rian Johnson",
+            "cast": [
+                "Daisy Ridley",
+                "John Boyega",
+                "Adam Driver"
+            ]
+        },
+        {
+            "id": "3d623b3c-7fe2-402e-9743-ada514f01482",
+            "title": "Érase una vez en... Hollywood ",
+            "year": "2019",
+            "points": "7,1",
+            "director": "Quentin Tarantino",
+            "cast": [
+                "Leonardo DiCaprio",
+                "Brad Pitt",
+                "Margot Robbie"
+            ]
+        },
+        {
+            "id": "9b9dcb26-1c48-4bb4-98fa-3828b20a0a5a",
+            "title": "Eternals ",
+            "year": "2021",
+            "points": "--",
+            "director": "Chloé Zhao",
+            "cast": [
+                "Angelina Jolie",
+                "Richard Madden",
+                "Gemma Chan"
+            ]
+        },
+        {
+            "id": "3380909c-8205-4955-8753-155d64796e7e",
+            "title": "Song to Song ",
+            "year": "2017",
+            "points": "5,4",
+            "director": "Terrence Malick",
+            "cast": [
+                "Michael Fassbender",
+                "Ryan Gosling",
+                "Rooney Mara"
+            ]
+        },
+        {
+            "id": "9c70f9b4-567a-446a-b5a8-d332e11ea5af",
+            "title": "El padre ",
+            "year": "2020",
+            "points": "7,8",
+            "director": "Florian Zeller",
+            "cast": [
+                "Anthony Hopkins",
+                "Olivia Colman",
+                "Imogen Poots"
+            ]
+        },
+        {
+            "id": "6d9ea349-a52d-4df6-8503-335922ab15c0",
+            "title": "Mank ",
+            "year": "2020",
+            "points": "6,6",
+            "director": "David Fincher",
+            "cast": [
+                "Gary Oldman",
+                "Amanda Seyfried",
+                "Arliss Howard"
+            ]
+        },
+        {
+            "id": "f0b44287-0e13-46b5-a1d9-ec04e2ab1553",
+            "title": "The King's Man: La primera misión ",
+            "year": "2021",
+            "points": "--",
+            "director": "Matthew Vaughn",
+            "cast": [
+                "Harris Dickinson",
+                "Ralph Fiennes",
+                "Aaron Taylor-Johnson"
+            ]
+        },
+        {
+            "id": "a1709305-05fd-40f4-abee-b7d606e1009d",
+            "title": "Furiosa ",
+            "year": "2023",
+            "points": "--",
+            "director": "George Miller",
+            "cast": [
+                "Anya Taylor-Joy",
+                "Chris Hemsworth",
+                "Yahya Abdul-Mateen II"
+            ]
+        },
+        {
+            "id": "ac088889-ba6c-4c1e-9eb1-80f6b12221f3",
+            "title": "West Side Story ",
+            "year": "2021",
+            "points": "--",
+            "director": "Steven Spielberg",
+            "cast": [
+                "Rachel Zegler",
+                "Ansel Elgort",
+                "David Alvarez"
+            ]
+        },
+        {
+            "id": "be55c999-94d0-4f9f-b024-d6609a4f4e93",
+            "title": "El renacido ",
+            "year": "2015",
+            "points": "7,2",
+            "director": "Alejandro González Iñárritu",
+            "cast": [
+                "Leonardo DiCaprio",
+                "Tom Hardy",
+                "Domhnall Gleeson"
+            ]
+        },
+        {
+            "id": "0fd86807-c696-497a-b7d3-31faea3fe118",
+            "title": "Toy Story 4 ",
+            "year": "2019",
+            "points": "7,1",
+            "director": "Josh Cooley",
+            "cast": []
+        },
+        {
+            "id": "68b1e161-2fe7-4146-9e38-06597ecbf3f5",
+            "title": "Ready Player One ",
+            "year": "2018",
+            "points": "6,7",
+            "director": "Steven Spielberg",
+            "cast": [
+                "Tye Sheridan",
+                "Olivia Cooke",
+                "Ben Mendelsohn"
+            ]
+        },
+        {
+            "id": "493ddc7e-ab37-4626-a04f-7dd6a752dca1",
+            "title": "La ciudad de las estrellas (La La Land) ",
+            "year": "2016",
+            "points": "7,5",
+            "director": "Damien Chazelle",
+            "cast": [
+                "Emma Stone",
+                "Ryan Gosling",
+                "John Legend"
+            ]
+        },
+        {
+            "id": "1abb90fd-d6af-4847-ad0b-b9b8b4db72b4",
+            "title": "La forma del agua ",
+            "year": "2017",
+            "points": "6,5",
+            "director": "Guillermo del Toro",
+            "cast": [
+                "Sally Hawkins",
+                "Doug Jones",
+                "Michael Shannon"
+            ]
+        },
+        {
+            "id": "6feda5bf-ccd9-41dd-ad59-16862048d50d",
+            "title": "T2: Trainspotting ",
+            "year": "2017",
+            "points": "6,2",
+            "director": "Danny Boyle",
+            "cast": [
+                "Ewan McGregor",
+                "Robert Carlyle",
+                "Jonny Lee Miller"
+            ]
+        },
+        {
+            "id": "54544185-17d4-42f6-8b1e-20aea2f5bfc3",
+            "title": "The Last Duel ",
+            "year": "2021",
+            "points": "--",
+            "director": "Ridley Scott",
+            "cast": [
+                "Matt Damon",
+                "Ben Affleck",
+                "Adam Driver"
+            ]
+        },
+        {
+            "id": "f80ea67b-7fa5-4c63-9890-cfd87f850187",
+            "title": "Uncharted ",
+            "year": "2022",
+            "points": "--",
+            "director": "Ruben Fleischer",
+            "cast": [
+                "Tom Holland",
+                "Mark Wahlberg",
+                "Antonio Banderas"
+            ]
+        },
+        {
+            "id": "7a33c71a-5eac-4fe6-8679-9fd123133cf4",
+            "title": "La llegada ",
+            "year": "2016",
+            "points": "7,3",
+            "director": "Denis Villeneuve",
+            "cast": [
+                "Amy Adams",
+                "Jeremy Renner",
+                "Forest Whitaker"
+            ]
+        },
+        {
+            "id": "38c74b78-1fd4-4662-aa26-c4830825ee12",
+            "title": "El Hobbit: Un viaje inesperado ",
+            "year": "2012",
+            "points": "7,0",
+            "director": "Peter Jackson",
+            "cast": [
+                "Martin Freeman",
+                "Ian McKellen",
+                "Richard Armitage"
+            ]
+        },
+        {
+            "id": "ae524d16-dde2-4901-a6cb-b413e11d4f11",
+            "title": "Sully ",
+            "year": "2016",
+            "points": "6,6",
+            "director": "Clint Eastwood",
+            "cast": [
+                "Tom Hanks",
+                "Aaron Eckhart",
+                "Laura Linney"
+            ]
+        },
+        {
+            "id": "4dc7ca94-3e27-4048-b9d3-cf06261e031b",
+            "title": "Una joven prometedora ",
+            "year": "2020",
+            "points": "7,0",
+            "director": "Emerald Fennell",
+            "cast": [
+                "Carey Mulligan",
+                "Bo Burnham",
+                "Alison Brie"
+            ]
+        },
+        {
+            "id": "09a1b328-e40d-4669-bb83-5a05e10dadc2",
+            "title": "Ad Astra ",
+            "year": "2019",
+            "points": "5,8",
+            "director": "James Gray",
+            "cast": [
+                "Brad Pitt",
+                "Tommy Lee Jones",
+                "Donald Sutherland"
+            ]
+        },
+        {
+            "id": "b9f888fb-2d29-4dd7-992b-938f445f180b",
+            "title": "Muerte en el Nilo ",
+            "year": "2022",
+            "points": "--",
+            "director": "Kenneth Branagh",
+            "cast": [
+                "Kenneth Branagh",
+                "Gal Gadot",
+                "Letitia Wright"
+            ]
+        },
+        {
+            "id": "9324e560-36f5-4c47-9996-66412b88abd1",
+            "title": "Sherlock Holmes 3 ",
+            "year": "2022",
+            "points": "--",
+            "director": "Dexter Fletcher",
+            "cast": [
+                "Robert Downey Jr.",
+                "Jude Law",
+                "Jared Harris",
+                "Eddie Marsan"
+            ]
+        },
+        {
+            "id": "3125afb9-a945-427d-be08-fbef1d62da9b",
+            "title": "Star Wars: El despertar de la Fuerza ",
+            "year": "2015",
+            "points": "6,8",
+            "director": "J.J. Abrams",
+            "cast": [
+                "Daisy Ridley",
+                "John Boyega",
+                "Harrison Ford"
+            ]
+        },
+        {
+            "id": "bde18f9f-0b6e-4811-803c-c60c04bde759",
+            "title": "Los nuevos mutantes ",
+            "year": "2020",
+            "points": "4,9",
+            "director": "Josh Boone",
+            "cast": [
+                "Blu Hunt",
+                "Maisie Williams",
+                "Anya Taylor-Joy"
+            ]
+        },
+        {
+            "id": "54bfb48e-56da-4264-b998-e79a8e1b3a63",
+            "title": "El Hobbit: La desolación de Smaug ",
+            "year": "2013",
+            "points": "6,7",
+            "director": "Peter Jackson",
+            "cast": [
+                "Martin Freeman",
+                "Richard Armitage",
+                "Ian McKellen"
+            ]
+        },
+        {
+            "id": "c9d02e2b-98ec-4ae1-848f-5cda63c8c9f3",
+            "title": "Wonder Woman 1984 ",
+            "year": "2020",
+            "points": "4,8",
+            "director": "Patty Jenkins",
+            "cast": [
+                "Gal Gadot",
+                "Chris Pine",
+                "Kristen Wiig"
+            ]
+        },
+        {
+            "id": "a9d8da04-0815-4381-8092-cd486036e1a3",
+            "title": "Interstellar ",
+            "year": "2014",
+            "points": "7,8",
+            "director": "Christopher Nolan",
+            "cast": [
+                "Matthew McConaughey",
+                "Anne Hathaway",
+                "David Gyasi"
+            ]
+        },
+        {
+            "id": "0d394cbb-58c1-4999-a4e0-7718621e15e1",
+            "title": "El Escuadrón Suicida ",
+            "year": "2021",
+            "points": "--",
+            "director": "James Gunn",
+            "cast": [
+                "Margot Robbie",
+                "Idris Elba",
+                "Viola Davis"
+            ]
+        },
+        {
+            "id": "2d056c4d-5512-4eb5-9184-adb8d0501901",
+            "title": "Matrix Resurrections ",
+            "year": "2021",
+            "points": "--",
+            "director": "Lana Wachowski",
+            "cast": [
+                "Keanu Reeves",
+                "Carrie-Anne Moss",
+                "Neil Patrick Harris"
+            ]
+        },
+        {
+            "id": "c903756b-126c-4619-bebd-004b53bcd3c0",
+            "title": "El caballero oscuro: La leyenda renace ",
+            "year": "2012",
+            "points": "7,5",
+            "director": "Christopher Nolan",
+            "cast": [
+                "Christian Bale",
+                "Anne Hathaway",
+                "Tom Hardy"
+            ]
+        },
+        {
+            "id": "371b47d7-453e-4e06-a853-b3e4dd7a5571",
+            "title": "La favorita ",
+            "year": "2018",
+            "points": "7,1",
+            "director": "Yorgos Lanthimos",
+            "cast": [
+                "Olivia Colman",
+                "Emma Stone",
+                "Rachel Weisz"
+            ]
+        },
+        {
+            "id": "c6235a1f-d390-4772-83d4-6a9656c4608b",
+            "title": "1917 ",
+            "year": "2019",
+            "points": "7,8",
+            "director": "Sam Mendes",
+            "cast": [
+                "George MacKay",
+                "Dean-Charles Chapman",
+                "Mark Strong"
+            ]
+        },
+        {
+            "id": "2b956fe4-147e-4b37-85ca-8bbbe3c12d0b",
+            "title": "Alien: Covenant ",
+            "year": "2017",
+            "points": "5,6",
+            "director": "Ridley Scott",
+            "cast": [
+                "Michael Fassbender",
+                "Katherine Waterston",
+                "Billy Crudup"
+            ]
+        },
+        {
+            "id": "34448c5e-f888-48b2-a38b-48ea4df0a6de",
+            "title": "Manchester frente al mar ",
+            "year": "2016",
+            "points": "7,1",
+            "director": "Kenneth Lonergan",
+            "cast": [
+                "Casey Affleck",
+                "Michelle Williams",
+                "Kyle Chandler"
+            ]
+        },
+        {
+            "id": "13d9b666-99b4-4338-be6b-9bdef33e35b6",
+            "title": "Escuadrón suicida ",
+            "year": "2016",
+            "points": "4,8",
+            "director": "David Ayer",
+            "cast": [
+                "Will Smith",
+                "Margot Robbie",
+                "Joel Kinnaman"
+            ]
+        },
+        {
+            "id": "709c595e-9155-49fa-9d77-d8687cacac7f",
+            "title": "Última noche en el Soho ",
+            "year": "2021",
+            "points": "--",
+            "director": "Edgar Wright",
+            "cast": [
+                "Anya Taylor-Joy",
+                "Matt Smith",
+                "Terence Stamp"
+            ]
+        },
+        {
+            "id": "66c69c7e-ad2b-4b86-9578-17e1e3d64067",
+            "title": "Moonlight ",
+            "year": "2016",
+            "points": "6,8",
+            "director": "Barry Jenkins",
+            "cast": [
+                "Trevante Rhodes",
+                "Naomie Harris",
+                "Mahershala Ali"
+            ]
+        },
+        {
+            "id": "39f77bcb-370b-4145-aea1-97b953c820cb",
+            "title": "Parásitos ",
+            "year": "2019",
+            "points": "8,0",
+            "director": "Bong Joon-ho",
+            "cast": [
+                "Song Kang-ho",
+                "Lee Seon-gyun",
+                "Jang Hye-jin"
+            ]
+        },
+        {
+            "id": "5f2588e2-b0c2-43d4-be3e-babfc4632ddc",
+            "title": "Joker ",
+            "year": "2019",
+            "points": "8,0",
+            "director": "Todd Phillips",
+            "cast": [
+                "Joaquin Phoenix",
+                "Robert De Niro",
+                "Zazie Beetz"
+            ]
+        },
+        {
+            "id": "b799b1e0-e6da-4733-b53a-f59b52a6ff09",
+            "title": "The Northman ",
+            "year": "2021",
+            "points": "--",
+            "director": "Robert Eggers",
+            "cast": [
+                "Alexander Skarsgård",
+                "Nicole Kidman",
+                "Anya Taylor-Joy"
+            ]
+        },
+        {
+            "id": "aaa0d2c7-45ca-4a6b-b29b-625f2938bca8",
+            "title": "El Hobbit: La batalla de los cinco ejércitos ",
+            "year": "2014",
+            "points": "6,3",
+            "director": "Peter Jackson",
+            "cast": [
+                "Martin Freeman",
+                "Ian McKellen",
+                "Richard Armitage"
+            ]
+        },
+        {
+            "id": "44057bcb-199d-41ea-97b1-9a93837de3c5",
+            "title": "Assassin's Creed ",
+            "year": "2016",
+            "points": "4,5",
+            "director": "Justin Kurzel",
+            "cast": [
+                "Michael Fassbender",
+                "Marion Cotillard",
+                "Jeremy Irons"
+            ]
+        },
+        {
+            "id": "1c1328cc-325a-49e9-b93b-4c14080f0d62",
+            "title": "Vengadores: Endgame ",
+            "year": "2019",
+            "points": "7,3",
+            "director": "Anthony Russo, Joe Russo",
+            "cast": [
+                "Robert Downey Jr.",
+                "Chris Evans",
+                "Mark Ruffalo"
+            ]
+        },
+        {
+            "id": "b4bb2e1e-bf7b-4feb-96db-f4dc8227e8ea",
+            "title": "Vengadores: Infinity War ",
+            "year": "2018",
+            "points": "7,5",
+            "director": "Anthony Russo, Joe Russo",
+            "cast": [
+                "Robert Downey Jr.",
+                "Chris Hemsworth",
+                "Benedict Cumberbatch"
+            ]
+        },
+        {
+            "id": "ad4aae46-4880-4b70-a010-ae05eff50133",
+            "title": "Batman v. Superman: El amanecer de la Justicia ",
+            "year": "2016",
+            "points": "5,5",
+            "director": "Zack Snyder",
+            "cast": [
+                "Ben Affleck",
+                "Henry Cavill",
+                "Amy Adams"
+            ]
+        },
+        {
+            "id": "5653b184-5809-4413-abbb-54898740b437",
+            "title": "Top Gun: Maverick ",
+            "year": "2021",
+            "points": "--",
+            "director": "Joseph Kosinski",
+            "cast": [
+                "Tom Cruise",
+                "Val Kilmer",
+                "Miles Teller"
+            ]
+        },
+        {
+            "id": "2d59acb9-b76f-4c59-ba4f-6cc48fe3c25a",
+            "title": "Guardianes de la galaxia Vol. 2 ",
+            "year": "2017",
+            "points": "6,7",
+            "director": "James Gunn",
+            "cast": [
+                "Chris Pratt",
+                "Zoe Saldana",
+                "Dave Bautista"
+            ]
+        },
+        {
+            "id": "52d6f1d5-d445-4dcf-9ad4-4b0714117c96",
+            "title": "Star Wars: El ascenso de Skywalker ",
+            "year": "2019",
+            "points": "5,7",
+            "director": "J.J. Abrams",
+            "cast": [
+                "Daisy Ridley",
+                "Adam Driver",
+                "John Boyega"
+            ]
+        },
+        {
+            "id": "63a79c70-e6ef-42d4-90d6-ba8921233c7e",
+            "title": "El sacrificio de un ciervo sagrado ",
+            "year": "2017",
+            "points": "6,6",
+            "director": "Yorgos Lanthimos",
+            "cast": [
+                "Colin Farrell",
+                "Nicole Kidman",
+                "Barry Keoghan"
+            ]
+        },
+        {
+            "id": "4253640c-8d8e-423d-8ccf-e496e9d59e1e",
+            "title": "Guardianes de la galaxia Vol. 3 ",
+            "year": "2023",
+            "points": "--",
+            "director": "James Gunn",
+            "cast": [
+                "Chris Pratt",
+                "Zoe Saldana",
+                "Dave Bautista"
+            ]
+        },
+        {
+            "id": "d782ae83-95c5-4581-be42-03f3fdd3d721",
+            "title": "Paterson ",
+            "year": "2016",
+            "points": "6,8",
+            "director": "Jim Jarmusch",
+            "cast": [
+                "Adam Driver",
+                "Golshifteh Farahani",
+                "Sterling Jerins"
+            ]
+        },
+        {
+            "id": "d56cfa2f-8270-4ea5-b781-c3f00c18232e",
+            "title": "Thor: Ragnarok ",
+            "year": "2017",
+            "points": "6,4",
+            "director": "Taika Waititi",
+            "cast": [
+                "Chris Hemsworth",
+                "Tom Hiddleston",
+                "Cate Blanchett"
+            ]
+        },
+        {
+            "id": "e1d22c9a-a6c7-4db8-a6da-276a907ba8a9",
+            "title": "Animales nocturnos ",
+            "year": "2016",
+            "points": "7,1",
+            "director": "Tom Ford",
+            "cast": [
+                "Amy Adams",
+                "Jake Gyllenhaal",
+                "Michael Shannon"
+            ]
+        },
+        {
+            "id": "d13f94b5-8365-4f73-9faf-9cf648b0c00b",
+            "title": "Hasta el último hombre ",
+            "year": "2016",
+            "points": "7,2",
+            "director": "Mel Gibson",
+            "cast": [
+                "Andrew Garfield",
+                "Sam Worthington",
+                "Hugo Weaving"
+            ]
+        },
+        {
+            "id": "b5344688-9f4d-49dd-b02b-5c0c6473891f",
+            "title": "First Man (El primer hombre) ",
+            "year": "2018",
+            "points": "6,4",
+            "director": "Damien Chazelle",
+            "cast": [
+                "Ryan Gosling",
+                "Jason Clarke",
+                "Claire Foy"
+            ]
+        },
+        {
+            "id": "3fd398bc-84e8-48a0-8cdb-6952c0768a49",
+            "title": "Morbius ",
+            "year": "2022",
+            "points": "--",
+            "director": "Daniel Espinosa",
+            "cast": [
+                "Jared Leto",
+                "Tyrese Gibson",
+                "J.K. Simmons"
+            ]
+        },
+        {
+            "id": "e42a628a-ef38-45c6-985f-93c85743c303",
+            "title": "Rogue One: Una historia de Star Wars ",
+            "year": "2016",
+            "points": "6,9",
+            "director": "Gareth Edwards",
+            "cast": [
+                "Felicity Jones",
+                "Diego Luna",
+                "Ben Mendelsohn"
+            ]
+        },
+        {
+            "id": "56c29402-3613-4b1b-bc71-be7c41400084",
+            "title": "Madre! ",
+            "year": "2017",
+            "points": "6,3",
+            "director": "Darren Aronofsky",
+            "cast": [
+                "Jennifer Lawrence",
+                "Javier Bardem",
+                "Ed Harris"
+            ]
+        },
+        {
+            "id": "ef0801dd-7d12-4840-a1d4-782c1a39d9a3",
+            "title": "Animales fantásticos y dónde encontrarlos ",
+            "year": "2016",
+            "points": "6,2",
+            "director": "David Yates",
+            "cast": [
+                "Eddie Redmayne",
+                "Dan Fogler",
+                "Katherine Waterston"
+            ]
+        },
+        {
+            "id": "165b9075-8efd-44c0-b81c-8d3a860621b5",
+            "title": "Don't Look Up ",
+            "year": "2021",
+            "points": "--",
+            "director": "Adam McKay",
+            "cast": [
+                "Leonardo DiCaprio",
+                "Jennifer Lawrence",
+                "Rob Morgan"
+            ]
+        },
+        {
+            "id": "6feb9a3a-f56e-432b-9b74-9832c1c20e94",
+            "title": "Glass (Cristal) ",
+            "year": "2019",
+            "points": "6,2",
+            "director": "M. Night Shyamalan",
+            "cast": [
+                "James McAvoy",
+                "Bruce Willis",
+                "Samuel L. Jackson"
+            ]
+        },
+        {
+            "id": "e8fc0996-5b6d-4a04-a97a-a1f72c45e85b",
+            "title": "The Death & Life of John F. Donovan ",
+            "year": "2018",
+            "points": "5,9",
+            "director": "Xavier Dolan",
+            "cast": [
+                "Kit Harington",
+                "Jacob Tremblay",
+                "Natalie Portman"
+            ]
+        },
+        {
+            "id": "1cb4cecf-6259-4cba-ba05-929a25cf599f",
+            "title": "Jojo Rabbit ",
+            "year": "2019",
+            "points": "7,2",
+            "director": "Taika Waititi",
+            "cast": [
+                "Roman Griffin Davis",
+                "Scarlett Johansson",
+                "Thomasin McKenzie"
+            ]
+        },
+        {
+            "id": "3b6964c9-296a-472e-a203-2359596fe3de",
+            "title": "Ejército de los muertos ",
+            "year": "2021",
+            "points": "--",
+            "director": "Zack Snyder",
+            "cast": [
+                "Dave Bautista",
+                "Ella Purnell",
+                "Ana de la Reguera"
+            ]
+        },
+        {
+            "id": "9de37079-5cf7-4a20-bdba-2b1009220103",
+            "title": "Birdman o (La Inesperada Virtud de la Ignorancia) ",
+            "year": "2014",
+            "points": "7,0",
+            "director": "Alejandro González Iñárritu",
+            "cast": [
+                "Michael Keaton",
+                "Emma Stone",
+                "Edward Norton"
+            ]
+        },
+        {
+            "id": "bea71fcf-68d8-4150-8143-30b8401c207e",
+            "title": "Vida oculta ",
+            "year": "2019",
+            "points": "6,8",
+            "director": "Terrence Malick",
+            "cast": [
+                "August Diehl",
+                "Matthias Schoenaerts",
+                "Valerie Pachner"
+            ]
+        },
+        {
+            "id": "cc05c1f3-a898-4911-809e-6a489afb0ead",
+            "title": "La Torre Oscura ",
+            "year": "2017",
+            "points": "4,6",
+            "director": "Nikolaj Arcel",
+            "cast": [
+                "Idris Elba",
+                "Matthew McConaughey",
+                "Tom Taylor"
+            ]
+        },
+        {
+            "id": "422b680f-a210-42dc-94e1-461c1a5343e9",
+            "title": "Doctor Sueño ",
+            "year": "2019",
+            "points": "6,3",
+            "director": "Mike Flanagan",
+            "cast": [
+                "Ewan McGregor",
+                "Rebecca Ferguson",
+                "Kyliegh Curran"
+            ]
+        },
+        {
+            "id": "ef6fd2c9-3c7b-4330-a6a6-b340fd1f1d58",
+            "title": "Doctor Strange in the Multiverse of Madness ",
+            "year": "2022",
+            "points": "--",
+            "director": "Sam Raimi",
+            "cast": [
+                "Benedict Cumberbatch",
+                "Elizabeth Olsen",
+                "Benedict Wong"
+            ]
+        },
+        {
+            "id": "de8907a9-35bb-4e00-8800-6b05c93b9702",
+            "title": "¡Ave, César! ",
+            "year": "2016",
+            "points": "5,4",
+            "director": "Joel Coen, Ethan Coen",
+            "cast": [
+                "Josh Brolin",
+                "George Clooney",
+                "Alden Ehrenreich"
+            ]
+        },
+        {
+            "id": "f1d62c9e-a03a-42e8-9961-44a39fdc7108",
+            "title": "Carol ",
+            "year": "2015",
+            "points": "7,0",
+            "director": "Todd Haynes",
+            "cast": [
+                "Cate Blanchett",
+                "Rooney Mara",
+                "Sarah Paulson"
+            ]
+        },
+        {
+            "id": "dec63d34-447e-4fda-856b-c51e2f133976",
+            "title": "Lady Bird ",
+            "year": "2017",
+            "points": "6,6",
+            "director": "Greta Gerwig",
+            "cast": [
+                "Saoirse Ronan",
+                "Laurie Metcalf",
+                "Lucas Hedges"
+            ]
+        },
+        {
+            "id": "00d61617-a8c2-4dd0-ad29-629ffd0d7291",
+            "title": "Tres anuncios en las afueras ",
+            "year": "2017",
+            "points": "7,6",
+            "director": "Martin McDonagh",
+            "cast": [
+                "Frances McDormand",
+                "Woody Harrelson",
+                "Sam Rockwell"
+            ]
+        },
+        {
+            "id": "b4f9fb57-38d7-4081-b0a9-04319e5eddad",
+            "title": "Tiempo ",
+            "year": "2021",
+            "points": "--",
+            "director": "M. Night Shyamalan",
+            "cast": [
+                "Gael García Bernal",
+                "Eliza Scanlen",
+                "Thomasin McKenzie"
+            ]
+        },
+        {
+            "id": "aab5fe0a-6519-4e74-bf93-6884cd82d715",
+            "title": "Liga de la Justicia ",
+            "year": "2017",
+            "points": "5,3",
+            "director": "Joss Whedon, Zack Snyder",
+            "cast": [
+                "Ben Affleck",
+                "Gal Gadot",
+                "Ezra Miller"
+            ]
+        },
+        {
+            "id": "24e5f19a-3157-48e1-b0c0-e48f3f2c1c07",
+            "title": "Nightmare Alley ",
+            "year": "2021",
+            "points": "--",
+            "director": "Guillermo del Toro",
+            "cast": [
+                "Bradley Cooper",
+                "Cate Blanchett",
+                "Rooney Mara"
+            ]
+        },
+        {
+            "id": "6e24b822-3696-483f-bb90-b374f0ae75c0",
+            "title": "Boyhood (Momentos de una vida) ",
+            "year": "2014",
+            "points": "7,3",
+            "director": "Richard Linklater",
+            "cast": [
+                "Ellar Coltrane",
+                "Patricia Arquette",
+                "Ethan Hawke"
+            ]
+        },
+        {
+            "id": "dcdb7206-d2e3-4674-883c-cea24dc03a73",
+            "title": "Un monstruo viene a verme ",
+            "year": "2016",
+            "points": "6,6",
+            "director": "J.A. Bayona",
+            "cast": [
+                "Lewis MacDougall",
+                "Sigourney Weaver",
+                "Felicity Jones"
+            ]
+        },
+        {
+            "id": "f42b576f-b8f9-4dea-8678-c07da0d4a578",
+            "title": "Jurassic World: El reino caído ",
+            "year": "2018",
+            "points": "5,6",
+            "director": "J.A. Bayona",
+            "cast": [
+                "Chris Pratt",
+                "Bryce Dallas Howard",
+                "James Cromwell"
+            ]
+        }
+    ]
+}
